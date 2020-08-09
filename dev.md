@@ -1,4 +1,4 @@
 # hey
 
 some update
-update from gitkraken 
+update from gitkraken
